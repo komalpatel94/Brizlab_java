@@ -9,7 +9,7 @@ import java.util.Scanner;
           System.out.println("Enter the num3:");
           int num3=sc.nextInt();
           double avg= (num1+num2 + num3)/3;
-          System.out.println("The Power calculation is:"+ avg);
+          System.out.println("Average of three number is:"+ avg);
 }
    }
   
