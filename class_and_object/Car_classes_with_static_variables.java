@@ -28,7 +28,7 @@ import java.util.Scanner;
 
         c1.display();
         c2.display();
-        c3.display(); // Shows wheels changed for all
+        c3.display(); 
     }
 }
    
