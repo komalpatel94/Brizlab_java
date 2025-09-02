@@ -9,7 +9,7 @@ import java.util.Scanner;
            System.out.println("Enter the time:");
           int time=sc.nextInt();
           int SI = (Principal * rate * time) / 100;
-          System.out.println("2. Perimeter of a Rectangle:"+" "+ SI);
+          System.out.println("Perimeter of a Rectangle:"+" "+ SI);
 }
    }
   
